@@ -15,7 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v1
         with:
-          repository: data-88.github.io/gwc-desktop
+          repository: data-88/gwc-desktop 
       - name: Set up Node
         uses: actions/setup-node@v2
         with:
