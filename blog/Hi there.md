@@ -1,8 +1,9 @@
 # Hi everyone! 👋
 
-This project is a web page emulation of a particular Linux distro called deepin. It is designed to allow you to host an open source blog, needless your own server. 
+Welcome to Guy With Camera's desktop. 
 
-Currently this project has implemented some basic features of blogs, windows, directories, also it has a shell with very fundamental functionalities. 
+This project is a web page emulation of a Linux distro called deepin. 
 
-**Hope you enjoy this blog and have fun 😃.**
-![](https://raw.githubusercontent.com/GoodManWEN/GoodManWEN.github.io/main/misc/chika.png)
+Take your time and look around. 
+
+There could be secrets...
